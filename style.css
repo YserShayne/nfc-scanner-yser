@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+button {
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+pre {
+  background: #eee;
+  padding: 10px;
+  white-space: pre-wrap;
+}
